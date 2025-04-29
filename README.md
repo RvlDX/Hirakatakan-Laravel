@@ -9,9 +9,9 @@ This is a Laravel 12 application for learning and practicing Japanese characters
 - Access learning resources for each script
 
 ## Requirements
+- Laravel 12
 - PHP >= 8.1
 - Composer
-- Laravel Framework
 - MySQL or any supported database
 
 ## Installation
